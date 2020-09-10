@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+mydb
+mydb_test
